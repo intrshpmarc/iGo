@@ -191,3 +191,7 @@ Here are the functions of the bot.py file:
 # Errors
 - Bot will not provide path if no original location is given or no destination is given.
 - If the given destination is not found or is not in Barcelona bot will not show the path.
+
+# Authors
+Marc Franquesa: marc.franquesa@estudiantat.upc.edu
+Eduard Aliaga: eduard.ramon.aliaga@estudiantat.upc.edu
