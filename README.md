@@ -194,4 +194,5 @@ Here are the functions of the bot.py file:
 
 # Authors
 Marc Franquesa: marc.franquesa@estudiantat.upc.edu
+
 Eduard Aliaga: eduard.ramon.aliaga@estudiantat.upc.edu
